@@ -2,7 +2,7 @@
 - 👀 I’m working on data science projects
 - 🌱 I’m currently python
 - 💞️ I’m looking to collaborate on data science projects
-- 📫 How to reach me prashant.rajput83.9@gmail.com
+- 📫 How to reach me prashant.kumar.singh1711@gmail.com
 
 <!---
 prashant268/prashant268 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
